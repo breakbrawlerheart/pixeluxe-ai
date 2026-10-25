@@ -35,7 +35,7 @@
 > Open the generator in your browser — no installation, no sign-up required to look around.
 <p align="center">
   <a href="https://pixeluxe.sbs/">
-    <img src="https://img.shields.io/badge/✨%20%20TRY%20PIXELUXE%20NOW%20%20✨-ff2d78?style=for-the-badge&labelColor=070410" alt="Try PixeLuxe" height="80">
+    <img src="img/cta-button.svg" alt="Try PixeLuxe now" width="100%">
   </a>
 </p>
 <p align="center">
