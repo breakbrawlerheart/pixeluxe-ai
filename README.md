@@ -8,7 +8,7 @@
   Describe a scene or upload a reference photo — get images with presence.
 </p>
 <p align="center">
-  <a href="https://pixeluxe.sbs/"><img src="https://img.shields.io/badge/✨_Open_PixeLuxe-ff2d78?style=for-the-badge" alt="Open PixeLuxe" height="40"></a>
+  <a href="https://pixeluxe.sbs/"><img src="https://img.shields.io/badge/✨%20%20OPEN%20PIXELUXE%20%20✨-ff2d78?style=for-the-badge&labelColor=070410" alt="Open PixeLuxe" height="60"></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/status-in_development-blueviolet?style=flat-square" alt="Status">
@@ -35,7 +35,7 @@
 > Open the generator in your browser — no installation, no sign-up required to look around.
 <p align="center">
   <a href="https://pixeluxe.sbs/">
-    <img src="https://img.shields.io/badge/✨_TRY_PIXELUXE_NOW-ff2d78?style=for-the-badge&labelColor=070410" alt="Try PixeLuxe" height="52">
+    <img src="https://img.shields.io/badge/✨%20%20TRY%20PIXELUXE%20NOW%20%20✨-ff2d78?style=for-the-badge&labelColor=070410" alt="Try PixeLuxe" height="80">
   </a>
 </p>
 <p align="center">
