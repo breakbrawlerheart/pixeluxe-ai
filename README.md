@@ -17,7 +17,6 @@
 PixeLuxe is an AI image generation interface built around a single idea: a consistent, cinematic visual direction — deep shadow, magenta light, confident framing — instead of generic model output.
 Write one line, or drop in a reference photo. Shape the style before anything renders. Compare several takes at once and export the one you want at full resolution.
 The project is aimed at designers, developers and creative teams who want a fast, opinionated front end for text-to-image and image-to-image workflows.
----
 🚀 Features
 ⚡ Fast generation — images come back in seconds, not minutes
 🖼️ High quality — sharp, detailed results that hold up at full size
@@ -27,15 +26,21 @@ The project is aimed at designers, developers and creative teams who want a fast
 ♾️ No limits — generate as many frames as you like, whenever you like
 📐 Full-resolution export — ready for print or screen
 📱 Mobile-first — installable PWA, camera and gallery input, dark by default
----
-🌐 Website
-Try it in the browser:
-<p align="center">
-  <a href="https://pixeluxe.sbs/">
-    <img src="https://img.shields.io/badge/✨%20OPEN%20PIXELUXE-ff2d78?style=for-the-badge&logoColor=white" alt="Open PixeLuxe" height="46">
-  </a>
-</p>
----
+🔧 How it works
+1. Describe or upload
+A sentence is enough. Add a reference photo if the result should follow its pose, light or mood.
+2. Set the direction
+Adjust style, palette, framing and detail before anything is rendered.
+3. Compare variations
+Several takes come back at once — pick the strongest.
+4. Download and use
+Export the chosen frame at full resolution.
+🖼️ Examples
+Four frames from the same visual direction:
+Neon wall · trio — three figures against a glowing magenta wall
+Heels · close crop — reflective floor, hard magenta light
+Skyline · dusk — a figure seen from behind against the city
+Lounge · magenta — seated figure, low-light interior
 💡 Use cases
 🎨 Concept art and mood boards
 📣 Advertising and campaign visuals
@@ -43,23 +48,21 @@ Try it in the browser:
 🏙️ Editorial and lifestyle imagery
 🕹️ Environment and character references
 🧪 Prototyping a visual direction before a shoot
----
 🛡️ Responsible use
 PixeLuxe is built for lawful, original creative work. Users should:
-✅ upload only images they own or have permission to use;
-🙅 avoid generating likenesses of real, identifiable people without their consent;
-🚫 never generate sexual, abusive or deceptive content, and never content involving minors;
-©️ respect privacy, intellectual-property and publicity rights;
-🏷️ label AI-generated and AI-edited media where appropriate.
----
+✅ upload only images they own or have permission to use
+🙅 avoid generating likenesses of real, identifiable people without their consent
+🚫 never generate sexual, abusive or deceptive content, and never content involving minors
+©️ respect privacy, intellectual-property and publicity rights
+🏷️ label AI-generated and AI-edited media where appropriate
 📌 Status
-This repository contains the front-end for PixeLuxe: layout, generation UI, gallery, reference-image handling and PWA setup. Generation is currently simulated — the interface is complete and waiting for an image model to be connected behind it.
+This repository contains the front end for PixeLuxe: layout, generation UI, gallery, reference-image handling and PWA setup.
+Generation is currently simulated — the interface is complete and waiting for an image model to be connected behind it.
 Planned next:
 [ ] Connect a live image model
 [ ] Accounts and generation history
 [ ] Saved style presets
 [ ] Public API
----
 ⚠️ Disclaimer
 AI-generated results may contain visual inaccuracies. Users are responsible for reviewing generated content and for ensuring that its creation and distribution comply with applicable laws, platform policies and consent requirements.
 ---
