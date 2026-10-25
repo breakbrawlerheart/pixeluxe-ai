@@ -36,21 +36,6 @@ Try it in the browser:
   </a>
 </p>
 ---
-🔧 How it works
-	Step	What happens
-01	Describe or upload	A sentence is enough. Add a reference photo if the result should follow its pose, light or mood.
-02	Set the direction	Adjust style, palette, framing and detail before anything is rendered.
-03	Compare variations	Several takes come back at once — pick the strongest.
-04	Download and use	Export the chosen frame at full resolution.
----
-🖼️ Examples
-Four frames from the same visual direction:
-Frame	Description
-`hero-trio`	Neon wall · trio
-`heels`	Heels · close crop
-`skyline`	Skyline · dusk
-`lounge`	Lounge · magenta
----
 💡 Use cases
 🎨 Concept art and mood boards
 📣 Advertising and campaign visuals
